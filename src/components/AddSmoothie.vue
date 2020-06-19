@@ -1,10 +1,15 @@
 <template>
-
+  <h2>Add smoothie</h2>
 </template>
 
 <script>
     export default {
-        name: "AddSmoothie"
+        name: "AddSmoothie",
+        data(){
+          return {
+
+          }
+        }
     }
 </script>
 
